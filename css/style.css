@@ -1,0 +1,16 @@
+#ela-dio {
+    width: 160px;
+    border-radius: 65%;
+    border-style:dashed;
+    border-color:rgb(186, 0, 243);
+    border-width: 10px;
+}
+
+#album-d {
+    width: 155px;
+    border-radius: 50%;
+    border-style:solid;
+    border-color:rgb(106, 219, 0);
+    border-width: 8px;
+}
+
